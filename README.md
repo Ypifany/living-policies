@@ -6,13 +6,19 @@ A template for clear, useful cybersecurity policies.
 
 This public working demonstration organizes cybersecurity policy around Ypifany’s services and what clients come to receive. It connects draft policy decisions to contributions, people, technology, recorded implementation, feedback, and optional external requirements.
 
-Working demonstration **0.4**, October 13, 2026.
+Working demonstration **0.5**, October 17, 2026.
+
+## Public policy scope
+
+The public pages use selected policy examples and control summaries to demonstrate the management process. Complete Workspace policies and original internal records remain private. Full policy decision lists and internal contribution and setup fields are excluded from the public HTML data as well as the rendered pages.
+
+Website-facing privacy and refund policies and terms of service will be published in full after they are written. This draft does not create or present those documents as adopted policies.
 
 Open `index.html` in a browser to explore the demonstration locally. It is self-contained, with no installation or external dependencies. The same file can be served from GitHub Pages.
 
 - **Our menu:** client results, contributions, relevant practice, and supporting draft policies.
-- **All policies — List:** all eight policies, with full names and mission-focused subtitles. Open any policy to read its draft direction and supporting controls.
-- **All policies — Map:** short connected nodes trace tools and physical arrangements through operational work to draft policy direction. Four groups make all 22 control records and 79 control-to-policy relationships reachable. Select a policy to trace its supporting controls in reverse, with current-group and overall counts shown separately.
+- **Policy examples — List:** eight brief public examples, with familiar policy names and mission-focused subtitles. Open an example to see its purpose, a selected direction statement, a work example, a review question, and the management process.
+- **Policy examples — Map:** short connected nodes trace tools and physical arrangements through operational work to draft policy direction. Four groups make all 22 control records and 79 control-to-policy relationships reachable. Select a policy to trace its supporting controls in reverse, with current-group and overall counts shown separately.
 - **Policies in use:** an anonymized, owner-reported client–developer example, followed by three illustrative situations. The reported example presents **If → Then → So → Check → Adjust**, with supporting detail available when needed.
 - **Operational and Technical Controls:** business purpose, people and technology, policy alignment, recorded implementation, evidence, review, and requirement relationships.
 
@@ -28,7 +34,7 @@ Policy and control links retain a return route to the originating service area o
 
 The map keeps selected and linked nodes distinct, provides the same connections in text, and uses a compact semantic trail on phones. The complete control dataset remains available through the group selector. Short technical labels are arrangement examples, not confirmation of deployed technology; each selected record retains its source basis and implementation status.
 
-Direct entry links: [All policies list](https://ypifany.github.io/living-policies/#view=policies&policyView=list) · [All policies map](https://ypifany.github.io/living-policies/#view=policies&policyView=map).
+Direct entry links: [Policy examples list](https://ypifany.github.io/living-policies/#view=policies&policyView=list) · [Policy examples map](https://ypifany.github.io/living-policies/#view=policies&policyView=map).
 
 The policy names provide familiar navigation. Their mission-focused subtitles retain the reason each direction belongs in the business:
 
