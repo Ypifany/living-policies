@@ -1,46 +1,29 @@
-# living-policies
+# Living policies
 
-A template for clear, useful cybersecurity policies.
+Ypifany’s public working demonstration connects policy direction to people, tools, useful work, and feedback. Working demonstration **0.6**, October 17, 2026.
 
-## Ypifany: Policies that help the work happen
+## Explore
 
-This public working demonstration organizes cybersecurity policy around Ypifany’s services and what clients come to receive. It connects draft policy decisions to contributions, people, technology, recorded implementation, feedback, and optional external requirements.
+Open `index.html` in a browser. It is self-contained and needs no installation or external assets.
 
-Working demonstration **0.4**, October 13, 2026.
+- **Explore the map:** a graphical map remains visible on phones and desktops. Start with access, sharing, recovery, or AI use. Select a policy, people’s work, tools, the intended result, or review to open an explanation. The arrangement chooser reaches all 22 control records and 79 control-to-policy connections, one arrangement at a time.
+- **Policy examples:** eight selected public examples, with purpose and a short direction statement. Work examples, review questions, the management process, and supporting arrangements open on request.
+- **In practice:** one anonymized, owner-reported client–developer example and three illustrative situations.
+- **Our services:** client results, with contribution and policy details available on request.
+- **Supporting control records:** reached through “About this demonstration” on the map or through selected items. Records retain their source, date, implementation status, and reference relationships.
 
-Open `index.html` in a browser to explore the demonstration locally. It is self-contained, with no installation or external dependencies. The same file can be served from GitHub Pages.
+Keyboard buttons, visible focus, live selection announcements, return routes, browser history, and shareable page fragments support navigation. The map height scales with text size and its nodes reflow into two rows on narrower screens.
 
-- **Our menu:** client results, contributions, relevant practice, and supporting draft policies.
-- **All policies — List:** all eight policies, with full names and mission-focused subtitles. Open any policy to read its draft direction and supporting controls.
-- **All policies — Map:** short connected nodes trace tools and physical arrangements through operational work to draft policy direction. Four groups make all 22 control records and 79 control-to-policy relationships reachable. Select a policy to trace its supporting controls in reverse, with current-group and overall counts shown separately.
-- **Policies in use:** an anonymized, owner-reported client–developer example, followed by three illustrative situations. The reported example presents **If → Then → So → Check → Adjust**, with supporting detail available when needed.
-- **Operational and Technical Controls:** business purpose, people and technology, policy alignment, recorded implementation, evidence, review, and requirement relationships.
+## Public scope and evidence
 
-All eight policies are working drafts. The actual example is reported by Ypifany’s owner and anonymized; it is not independently verified. The three illustrative situations do not report client outcomes. Expected contributions and proposed next checks are distinguished from reported changes.
+Complete Workspace policies and original internal records remain private. Full policy decision lists and internal contribution and setup fields are excluded from the public HTML data as well as the rendered pages. Privacy and refund policies and terms of service have not been drafted here; those website policies will be shown in full when written.
 
-The owner-reported example describes a language revision, a client owner and Ypifany directing a developer, document-level sharing in Google Workspace, and an access-review inventory now in use after sharing exceptions were not always revoked. Individual role permissions, completed access corrections, and effectiveness are not established. The client’s SCHEV operating context is separate from Ypifany’s cybersecurity controls and CMMC reference; removing a word is not proof of approval or exemption.
+All eight policies are working drafts, not approved. Map arrows express draft direction and intended support, not verified effectiveness. The owner-reported example is anonymized and not independently verified. Illustrative situations do not report client outcomes. Intended contributions, proposed checks, and reported changes remain distinct.
 
-Control statuses remain based on the owner’s existing assessment workbook where stated. “Reported in place” and “Reported partly in place” are self-reported, dated source statements; they are not current independent verification or certification. People and technology descriptions are draft working arrangements to review, not confirmation that each listed setting or practice is operating. The new example does not change those dated control records.
+Control statuses are dated statements from the owner’s workbook, not current independent verification or certification. Draft people and technology arrangements do not confirm every practice or setting is operating. CMMC Level 1 is a voluntary reference; Ypifany has no current DoD contracts. All 15 safeguarding references remain **Not assessed**. No CMMC status or contract eligibility is claimed.
 
-Ypifany has no current DoD contracts. CMMC Level 1 is a voluntarily selected reference in this demonstration. Implementation status and requirement relationships are kept separate. All 15 supporting safeguarding references remain **Not assessed**. No CMMC status or contract eligibility is claimed. Business controls can remain useful without an external mandate.
+This repository contains only the public demonstration. Client and developer names, email addresses, screenshots, private file IDs, project folder names, account settings, system details, recovery information, and private assessment records are excluded.
 
-Policy and control links retain a return route to the originating service area or example. The reported case is directly accessible from Decision clarity and Teaming & contracts. Browser Back and shareable page fragments also preserve the selected view.
+## Validation
 
-The map keeps selected and linked nodes distinct, provides the same connections in text, and uses a compact semantic trail on phones. The complete control dataset remains available through the group selector. Short technical labels are arrangement examples, not confirmation of deployed technology; each selected record retains its source basis and implementation status.
-
-Direct entry links: [All policies list](https://ypifany.github.io/living-policies/#view=policies&policyView=list) · [All policies map](https://ypifany.github.io/living-policies/#view=policies&policyView=map).
-
-The policy names provide familiar navigation. Their mission-focused subtitles retain the reason each direction belongs in the business:
-
-| Policy | Mission-focused subtitle |
-|---|---|
-| Technology Use Policy | Tools and information for our work together |
-| Information Handling Policy | Client information has an agreed purpose |
-| AI Use Policy | AI supports work I can stand behind |
-| Access Management Policy | Access fits the work and the engagement |
-| Information Sharing and Release Policy | Share work for its intended audience |
-| Evidence and Records Policy | Evidence carries its context |
-| Business Continuity and Recovery Policy | Reliable delivery, recovery, and handoff |
-| Risk and Review Policy | Use what the work reveals |
-
-This repository contains only the public demonstration and this README. The example excludes client and developer names, email addresses, screenshots, file IDs, project folder names, and private assessment records. Private account settings, system details, and recovery information are also excluded.
+JavaScript syntax, HTML parsing, public-data boundaries, and connection counts checked. A lightweight DOM behavior check exercised all policies, all arrangements and map stages, services, scenarios, details and back routes, and both mobile and desktop interaction paths. SVG paths were finite. Real browser layout verification remains unavailable in this environment.
