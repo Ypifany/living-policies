@@ -1,12 +1,15 @@
 # Living policies
 
-Ypifany’s public working demonstration explains its practical policy service: clear decisions, useful policies, work steps, tool settings, and a way to check whether they help. Working demonstration **0.7**, October 18, 2026.
+Ypifany’s public working demonstration explains its practical policy service: clear decisions, useful policies, work steps, tool settings, and a way to check whether they help. Working demonstration **0.8**, October 18, 2026.
 
 ## Explore
 
+The opening now gives visitors one example and one clear first action before the full work-area and control collection. A draft founder note explains the approach through familiar access, approval, and handoff decisions. The connected gear illustration and interactive example use the same Policy / People / Tools labels.
+
 Open `index.html` in a browser. It is self-contained and needs no installation or external assets.
 
-- **Start with your work:** six distinct work areas use everyday questions to explain the practical role of policy. Each shows an illustrative policy decision, people’s steps, and technical support, followed by three directly relevant controls and a practical check. Eighteen explicit area-to-control selections explain the connection.
+- **Start here:** a familiar client-approval example has three selectable views: Policy, People, and Tools. Hero actions jump to the demonstration and the founder note. More detailed policy and control connections open on request.
+- **Work areas:** six distinct work areas use everyday questions to explain the practical role of policy. Each shows an illustrative policy decision, people’s steps, and technical support, followed by three directly relevant controls and a practical check. Eighteen explicit area-to-control selections explain the connection.
 - **See the map:** a graphical map remains visible on phones and desktops. Start with access, sharing, recovery, or AI use. Select a policy, people’s work, tools, the intended result, or review to open an explanation. All 22 control records and 79 control-to-policy connections remain reachable, one control at a time.
 - **Policy examples:** eight selected public summaries use plain language for the job a policy supports, example direction, work task, and review question.
 - **Work examples:** one anonymized, owner-reported client–developer example and three illustrative situations.
@@ -28,4 +31,4 @@ This repository contains only the public demonstration. Client and developer nam
 
 ## Validation
 
-JavaScript syntax, HTML parsing, public-data boundaries, and connection counts checked. Source comparison verified preserved control links, statuses, evidence, and requirements. A lightweight DOM behavior check exercised every policy, arrangement, map stage, work area, linked control, scenario, details and back route, and mobile/desktop interaction path. SVG paths were finite. Real browser layout verification remains unavailable in this environment.
+JavaScript syntax, HTML parsing, public-data boundaries, and connection counts checked. Source comparison verified preserved control links, statuses, evidence, and requirements. A lightweight DOM behavior check exercised the new home example, all three selectable views, founder-note and demo actions, return navigation, every policy, arrangement, map stage, work area, linked control, scenario, and mobile/desktop interaction path. SVG paths were finite. Real browser layout verification remains unavailable in this environment.
